@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Sriman B!
-
 ### AI & ML Student | UI/UX Designer | Frontend Developer | Creative Technologist
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student passionate about building useful, creative, and user-friendly digital products.
-
 I enjoy working at the intersection of **Artificial Intelligence, Web Development, UI/UX Design, and Creative Technology.**
 
 ---
@@ -43,7 +41,6 @@ I enjoy working at the intersection of **Artificial Intelligence, Web Developmen
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🔧 Tools & Technologies
-
 - Git & GitHub
 - VS Code
 - Streamlit
@@ -59,7 +56,6 @@ I enjoy working at the intersection of **Artificial Intelligence, Web Developmen
 
 ### 🤖 AI Agent Projects
 Building intelligent AI agents using **LangChain, LangGraph and LLM APIs**.
-
 Focus areas:
 - AI Agents
 - Agent monitoring
@@ -69,17 +65,14 @@ Focus areas:
 
 ### 🗣️ Silent Speech Reader
 An AI-powered computer vision project that attempts to convert **silent lip movements into text/audio**.
-
 **Technologies:** Python, OpenCV, CNN, LSTM, MediaPipe
 
 ### 🧠 SmartBoard AI
 An intelligent handwritten word recognition system using deep learning.
-
 **Technologies:** Python, CNN, PyTorch, Tkinter, PIL
 
 ### 🩺 Telecure
 A multilingual telemedicine concept designed to improve healthcare accessibility for rural users.
-
 **Focus:** AI + Computer Vision + Telemedicine + Low-bandwidth applications
 
 ---
@@ -87,7 +80,6 @@ A multilingual telemedicine concept designed to improve healthcare accessibility
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
@@ -102,3 +94,17 @@ DSA             ██████░░░░░░░░░
 AI / ML         ██████████░░░░░
 Generative AI   █████████░░░░░░
 UI / UX         ███████████░░░░
+```
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+
+---
+
+⭐️ *Thanks for visiting my profile — always open to collaborating on AI, web, and design projects!*

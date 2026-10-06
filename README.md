@@ -629,19 +629,4 @@ I'm open to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050505,50:550000,75:DC143C,100:000000&height=180&section=footer&animation=fadeIn" width="100%" alt="Cinematic Footer"/>
 
 </div>
-```
 
-### Replace these before pushing
-
-```text
-YOUR_WEBSITE.com
-YOUR_CHANNEL
-YOUR_HANDLE
-YOUR_EMAIL@example.com
-
-REPO_ONE
-REPO_TWO
-REPO_THREE
-```
-
-**Important:** GitHub will animate the external SVG/GIF-style services, but it will **not execute custom JavaScript/CSS inside `README.md`**. So this version uses services that GitHub can actually render, rather than adding fake CSS animations that won't work.

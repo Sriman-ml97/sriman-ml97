@@ -1,272 +1,647 @@
 <!-- ============================================================
-     GITHUB PROFILE README
-     Find & replace: SRIMAN, sriman-ml97, and all the links
-     marked with TODO before you push.
+     SRIMAN — CINEMATIC ANIMATED GITHUB PROFILE
+     RED × BLACK × WHITE
      ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=SRIMAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%C3%97%20Videographer%20%C3%97%20Motion%20Designer&descSize=20&descAlignY=58" alt="header" />
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    CINEMATIC INTRO                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,18:050505,35:160000,52:550000,68:8B0000,84:DC143C,100:000000&height=320&section=header&text=SRIMAN&fontSize=86&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20ENGINEER%20%C2%B7%20CREATIVE%20DEVELOPER&descSize=20&descAlignY=55&stroke=FFFFFF&strokeWidth=1" width="100%" alt="SRIMAN Cinematic Header"/>
+
+<!-- ANIMATED TYPING -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=I+write+code+and+cut+frames.;Shooting+%E2%86%92+Editing+%E2%86%92+Motion+%E2%86%92+Shipping.;Teaching+machines+to+help+me+tell+better+stories.;AI+x+Video+is+the+next+big+thing.+I'm+building+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=500&color=DC143C&center=true&vCenter=true&width=900&lines=AI+%C3%97+VIDEO+%C3%97+MOTION;CODE+THE+VISION.;EDIT+THE+STORY.;TEACHING+MACHINES+TO+CREATE.;BUILDING+THE+FUTURE+FRAME+BY+FRAME.;AI+IS+THE+NEXT+FRAME." alt="Animated Typing"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sriman-ml97&label=Profile%20Views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sriman-ml97?style=for-the-badge&logo=github&color=302b63)
-![Stars](https://img.shields.io/github/stars/sriman-ml97?style=for-the-badge&logo=github&color=24243e)
+<!-- ANIMATED STATUS -->
+
+<img src="https://img.shields.io/badge/●_ONLINE-DC143C?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/AI%2FML-ENGINEER-FFFFFF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/CREATIVE-DEVELOPER-DC143C?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MOTION-DESIGNER-FFFFFF?style=for-the-badge&labelColor=050505"/>
+
+<br/><br/>
+
+<!-- PROFILE COUNTERS -->
+
+<img src="https://komarev.com/ghpvc/?username=sriman-ml97&label=PROFILE%20VIEWS&color=DC143C&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sriman-ml97?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B0000&labelColor=050505"/>
+<img src="https://img.shields.io/github/stars/sriman-ml97?style=for-the-badge&logo=github&label=STARS&color=FFFFFF&labelColor=050505"/>
+
+<br/><br/>
+
+<!-- RED PULSE DIVIDER -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header" width="75%"/>
 
 </div>
 
 ---
 
-## 🎬 Who I Am
+<!-- ============================================================
+                         WHO I AM
+     ============================================================ -->
+
+## 🎬 WHO I AM
+
+<div align="center">
+
+<a href="https://github.com/sriman-ml97">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Developer.;Videographer.;Video+Editor.;Motion+Designer.;AI%2FML+Engineer.;Creative+Technologist." alt="Roles"/>
+</a>
+
+</div>
 
 I live in two worlds that turn out to be the same world.
 
-By day I'm **building software**: clean interfaces, solid backends, automation that saves hours. By light (golden hour, mostly) I'm **behind a camera and inside a timeline**: shooting, cutting, grading, and animating.
+By day I'm **building software**: clean interfaces, intelligent systems, automation and AI-powered applications.
 
-Code and film share the same bones. Both are about **structure, rhythm, and removing everything that doesn't belong**. A good function and a good cut both feel inevitable when they're right.
+By light — golden hour, mostly — I'm **behind a camera and inside a timeline**: shooting, cutting, grading and animating.
 
-Right now my focus is the collision of the two: **AI-powered video and motion**. Generative tools, smart editing pipelines, and automated motion graphics are about to change how every story gets made, and I want to be building the tools, not just using them.
+Code and film share the same bones.
+
+**Structure. Rhythm. Timing. Story.**
+
+A good function and a good cut both feel inevitable when they're right.
+
+Right now, my focus is the collision of the two:
+
+<div align="center">
+
+# 🔴 AI × VIDEO × MOTION
+
+</div>
+
+Generative tools, intelligent editing pipelines, computer vision, creative coding and automated motion systems.
+
+> **I want to build the tools — not just use them.**
+
+---
+
+<!-- ============================================================
+                      IDENTITY SYSTEM
+     ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=CODE%20%C3%97%20CINEMA%20%C3%97%20AI&fontSize=30&fontColor=DC143C&animation=fadeIn" width="90%"/>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                       S R I M A N                        ║
+║                                                          ║
+║                  AI / ML ENGINEER                        ║
+║                  CREATIVE DEVELOPER                      ║
+║                  VIDEOGRAPHER                            ║
+║                  MOTION DESIGNER                         ║
+║                                                          ║
+║             CODE × CINEMA × AI × MOTION                  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ============================================================
+                       THE CODE
+     ============================================================ -->
+
+## 🧬 THE CODE BEHIND ME
 
 ```js
 const me = {
   name: "SRIMAN",
-  roles: ["Developer", "Videographer", "Video Editor", "Motion Designer"],
-  currentlyObsessedWith: ["AI video generation", "automated editing pipelines", "creative coding"],
-  fuel: ["coffee", "lo-fi", "a good LUT"],
-  lookingFor: "collabs where code meets cinema",
+
+  roles: [
+    "AI/ML Engineer",
+    "Developer",
+    "Videographer",
+    "Video Editor",
+    "Motion Designer"
+  ],
+
+  currentlyObsessedWith: [
+    "AI video generation",
+    "Computer Vision",
+    "Markerless Motion Capture",
+    "Robotics",
+    "Automated editing pipelines",
+    "Creative coding",
+    "Motion graphics"
+  ],
+
+  building: [
+    "AI-powered creative systems",
+    "Motion automation tools",
+    "Computer vision applications",
+    "Robotics + AI experiments"
+  ],
+
+  fuel: [
+    "coffee",
+    "lo-fi",
+    "cinematic frames",
+    "a good LUT"
+  ],
+
+  philosophy:
+    "Code the vision. Edit the story. Automate the impossible.",
+
+  lookingFor:
+    "collabs where code meets cinema"
 };
 ```
 
 ---
 
-## 🔭 What I'm Working On Now
+<!-- ============================================================
+                    CURRENT WORK
+     ============================================================ -->
 
-| | |
+# 🔴 WHAT I'M WORKING ON
+
+<div align="center">
+
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=DC143C&center=true&vCenter=true&width=800&lines=Building+AI-powered+creative+systems...;Teaching+robots+through+human+motion...;Automating+the+boring+parts+of+editing...;Turning+data+into+motion...;Exploring+AI+%C3%97+Cinema..." alt="Current Work"/>
+</a>
+
+</div>
+
+| SYSTEM | WHAT I'M BUILDING |
 |---|---|
-| 🤖 **AI x Video** | Experimenting with generative video, AI-assisted editing, auto-captioning, scene detection and smart cuts |
-| 🎞️ **Motion Systems** | Reusable animation templates that can be driven by code or data instead of keyframed by hand |
-| 🧪 **Creative Tooling** | Small tools and scripts that remove the boring parts of post-production |
-| 🌱 **Learning** | Real-time graphics, shaders, and diffusion-based video models |
+| 🤖 **AI × Video** | Generative video, AI-assisted editing, scene detection and smart cuts |
+| 🎞️ **Motion Systems** | Reusable animation systems driven by code and data |
+| 🧍 **Markerless MoCap** | Camera → AI pose → skeleton → motion data |
+| 🦾 **Robotics + AI** | Human → robot motion retargeting |
+| 🧪 **Creative Tooling** | Tools that remove repetitive post-production work |
+| 🎨 **Creative Coding** | Interactive visuals and cinematic web experiences |
+| 🌱 **Learning** | Real-time graphics, shaders, ROS 2 and diffusion models |
 
 ---
 
-## 🎥 The Creative Side
+<!-- ============================================================
+                       CREATIVE SIDE
+     ============================================================ -->
+
+# 🎥 THE CREATIVE SIDE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=750&lines=SHOOT.;EDIT.;GRADE.;ANIMATE.;CREATE." alt="Creative Animation"/>
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 📷 Videography
-- Cinematic b-roll, travel, product and brand films
-- Event and documentary coverage
-- Lighting, composition, and storytelling on a budget
-- Gimbal, handheld, and run-and-gun shooting
+### 📷 VIDEOGRAPHY
+
+- Cinematic B-roll
+- Product films
+- Brand films
+- Event coverage
+- Documentary style
+- Travel filmmaking
+- Gimbal shooting
+- Handheld cinematography
+- Run-and-gun production
+- Visual storytelling
 
 </td>
+
 <td width="50%" valign="top">
 
-### ✂️ Editing & Color
-- Narrative cutting, pacing, and sound design
-- Colour grading and look development
-- Short-form (Reels / Shorts / TikTok) and long-form (YouTube)
-- Fast turnarounds without a flat feel
+### ✂️ EDITING & COLOR
+
+- Narrative cutting
+- Cinematic pacing
+- Sound design
+- Colour grading
+- Look development
+- Reels / Shorts
+- YouTube editing
+- Motion transitions
+- Fast turnaround
+- Story-driven editing
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌀 Motion Graphics
-- Titles, lower thirds, kinetic typography
-- Logo stings and brand animation packs
-- VFX compositing, tracking, and cleanup
-- Explainers and UI/product animations
+### 🌀 MOTION DESIGN
+
+- Kinetic typography
+- Titles
+- Lower thirds
+- Logo animation
+- Brand motion systems
+- VFX compositing
+- Tracking
+- Cleanup
+- Explainers
+- UI animation
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧠 AI Workflows
-- Generative video and image models in real production
-- Automated transcription, subtitles, and translation
-- AI upscaling, denoising, and rotoscoping
-- Prompt-to-storyboard-to-edit pipelines
+### 🧠 AI WORKFLOWS
+
+- Generative video
+- Generative images
+- Computer vision
+- Pose estimation
+- AI-assisted editing
+- Auto transcription
+- Auto subtitles
+- AI upscaling
+- Rotoscoping
+- Prompt → Storyboard → Edit
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
+<!-- ============================================================
+                       TECH STACK
+     ============================================================ -->
 
-### 💻 Development
+# 🧰 TECH STACK
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+## 💻 DEVELOPMENT
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,git&theme=dark" />
+
 </p>
 
-### 🎨 Video, Motion & Design
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-</p>
+<div align="center">
 
-### 🤖 AI & Creative Coding
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-DC143C?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-DC143C?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 VIDEO · MOTION · DESIGN
 
-> Replace these with your real work. Keep the structure, swap the content.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ae,ps,pr,blender,figma&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PREMIERE%20PRO-DC143C?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-8B0000?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAVINCI-050505?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLENDER-DC143C?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-FFFFFF?style=for-the-badge&logo=figma&logoColor=black"/>
+
+</div>
+
+---
+
+## 🤖 AI · COMPUTER VISION · ROBOTICS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,ros,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PyTorch-DC143C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-8B0000?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-050505?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS%202-DC143C?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+<!-- ============================================================
+                     PROJECTS
+     ============================================================ -->
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/sriman-ml97/REPO_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriman-ml97&repo=REPO_ONE&bg_color=050505&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sriman-ml97/REPO_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriman-ml97&repo=REPO_TWO&bg_color=050505&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&hide_border=true"/>
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### 🎞️ Project One
-**AI Auto-Editor**
+### 🎞️ AI AUTO-EDITOR
 
-Takes raw footage, detects the best moments, and assembles a rough cut automatically.
+AI-assisted video editing pipeline.
 
 `Python` `FFmpeg` `Whisper`
 
-[**View repo →**](https://github.com/sriman-ml97/REPO_ONE)
+[**VIEW →**](https://github.com/sriman-ml97/REPO_ONE)
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🌀 Project Two
-**Motion Template Engine**
+### 🌀 MOTION ENGINE
 
-Data-driven animated titles and lower thirds, rendered from JSON instead of keyframes.
+Data-driven motion graphics system.
 
 `React` `Remotion` `TypeScript`
 
-[**View repo →**](https://github.com/sriman-ml97/REPO_TWO)
+[**VIEW →**](https://github.com/sriman-ml97/REPO_TWO)
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🎬 Project Three
-**Portfolio & Showreel**
+### 🎬 CINEMATIC PORTFOLIO
 
-My personal site, built to show film and code side by side.
+AI + code + cinematic web experience.
 
-`Next.js` `Tailwind` `Framer Motion`
+`HTML` `CSS` `JavaScript`
 
-[**View repo →**](https://github.com/sriman-ml97/REPO_THREE)
+[**VIEW →**](https://github.com/sriman-ml97/REPO_THREE)
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🎞️ Showreel
+<!-- ============================================================
+                      MOCAP PROJECT
+     ============================================================ -->
+
+# 🧍 MARKERLESS MOTION CAPTURE
 
 <div align="center">
 
-<!-- TODO: Replace with your own thumbnail + video link.
-     Tip: upload a GIF preview to the repo and link it to the full reel. -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=500&color=DC143C&center=true&vCenter=true&width=850&lines=CAMERA;↓;AI+POSE+ESTIMATION;↓;3D+SKELETON;↓;MOTION+ANALYSIS;↓;ROBOT+CONTROL" alt="Motion Capture Pipeline"/>
 
-[![Watch my showreel](https://img.shields.io/badge/▶%20WATCH%20THE%20SHOWREEL-7c3aed?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
+<br/><br/>
 
-<!-- Example animated preview:
+```text
+ CAMERA
+    │
+    ▼
+ ┌───────────────┐
+ │   AI / CV     │
+ │ POSE TRACKING │
+ └───────┬───────┘
+         │
+         ▼
+ ┌───────────────┐
+ │  3D SKELETON  │
+ └───────┬───────┘
+         │
+         ▼
+ ┌───────────────┐
+ │ MOTION DATA   │
+ │ ANGLES / SPEED │
+ └───────┬───────┘
+         │
+         ▼
+ ┌───────────────┐
+ │   ROBOTICS    │
+ └───────────────┘
+```
+
+</div>
+
+---
+
+<!-- ============================================================
+                       SHOWREEL
+     ============================================================ -->
+
+# 🎞️ SHOWREEL
+
+<div align="center">
+
 <a href="https://youtube.com/@YOUR_CHANNEL">
-  <img src="assets/showreel-preview.gif" width="700" alt="Showreel preview" />
+
+<img src="https://img.shields.io/badge/▶%20WATCH%20SHOWREEL-DC143C?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505"/>
+
 </a>
--->
+
+<br/><br/>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=PLAY.;WATCH.;FEEL.;REWIND.;CREATE." alt="Showreel"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ============================================================
+                     GITHUB STATS
+     ============================================================ -->
+
+# 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sriman-ml97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriman-ml97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" />
+<img src="https://github-readme-stats.vercel.app/api?username=sriman-ml97&show_icons=true&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&ring_color=DC143C"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriman-ml97&layout=compact&hide_border=true&bg_color=050505&title_color=DC143C&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriman-ml97&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriman-ml97&theme=dark&hide_border=true&background=050505&ring=DC143C&fire=FF2B2B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=777777"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sriman-ml97&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sriman-ml97&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
 ---
 
-## 🔮 Where I'm Headed
+<!-- ============================================================
+                  ANIMATED CONTRIBUTIONS
+     ============================================================ -->
 
-The next few years of creative work will be defined by one question: **what happens when the timeline can think?**
+# ⚡ CONTRIBUTION FLOW
 
-- 🎯 Building tools where an idea becomes a rough cut in minutes
-- 🎯 Making motion design programmable, so every brand gets custom animation without a week of keyframes
-- 🎯 Pairing real cinematography with AI so the human eye stays in charge of the story
-- 🎯 Sharing everything I learn along the way, in code and on camera
+<div align="center">
 
-The tools are getting incredible. I plan to be one of the people shaping them.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriman-ml97&bg_color=050505&color=FFFFFF&line=DC143C&point=FFFFFF&area_color=8B0000&hide_border=true&area=true&custom_title=SRIMAN%20CONTRIBUTION%20TIMELINE" width="95%"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Work Together
+<!-- ============================================================
+                    CURRENT STATUS
+     ============================================================ -->
+
+# 🎯 CURRENT STATUS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=850&lines=%5B+AI%2FML+%5D+BUILDING;%5B+ROBOTICS+%5D+LEARNING;%5B+COMPUTER+VISION+%5D+EXPERIMENTING;%5B+VIDEO+%5D+CREATING;%5B+MOTION+%5D+DESIGNING;%5B+CODE+%5D+SHIPPING" alt="Status"/>
+
+</div>
+
+---
+
+# 🔮 WHERE I'M HEADED
+
+<div align="center">
+
+### `WHAT HAPPENS WHEN THE TIMELINE CAN THINK?`
+
+</div>
+
+### 🎯 BUILD
+
+Tools where an idea becomes a rough cut in minutes.
+
+### 🎯 AUTOMATE
+
+Make motion design programmable instead of manually keyframed.
+
+### 🎯 CONNECT
+
+Combine real cinematography with artificial intelligence.
+
+### 🎯 EXPERIMENT
+
+Push AI, robotics, computer vision and creative technology together.
+
+### 🎯 SHARE
+
+Document what I learn through code, video and experiments.
+
+---
+
+<!-- ============================================================
+                    CINEMATIC PIPELINE
+     ============================================================ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=600&color=DC143C&center=true&vCenter=true&width=900&lines=IDEA;↓;CODE;↓;MODEL;↓;MOTION;↓;EDIT;↓;STORY;↓;SHIP" alt="Creative Pipeline"/>
+
+</div>
+
+---
+
+<!-- ============================================================
+                    COLLABORATION
+     ============================================================ -->
+
+# 🤝 LET'S WORK TOGETHER
 
 I'm open to:
 
-- 🎬 Freelance video, editing, and motion work
-- 💻 Dev projects that need a strong visual sense
-- 🤖 AI x video experiments and open-source collabs
-- ☕ Good conversations about any of the above
+- 🎬 Freelance video editing
+- 🎞️ Motion design
+- 💻 Creative development
+- 🤖 AI / ML projects
+- 🧠 Computer vision projects
+- 🦾 Robotics + AI experiments
+- 🎨 AI × Video experiments
+- 🌎 Open-source collaborations
+
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+<a href="https://YOUR_WEBSITE.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050505"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YOUTUBE-FFFFFF?style=for-the-badge&logo=youtube&logoColor=red&labelColor=050505"/>
+</a>
+
+<a href="https://instagram.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=050505"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505"/>
+</a>
 
 </div>
 
 ---
 
+<!-- ============================================================
+                      FINAL ANIMATION
+     ============================================================ -->
+
 <div align="center">
 
-*"Code is the script. Footage is the raw material. Motion is the magic. AI is the next act."*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=800&color=DC143C&center=true&vCenter=true&width=850&lines=CODE+IS+THE+SCRIPT.;FOOTAGE+IS+THE+RAW+MATERIAL.;MOTION+IS+THE+MAGIC.;AI+IS+THE+NEXT+ACT." alt="Final Cinematic Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050505,50:550000,75:DC143C,100:000000&height=180&section=footer&animation=fadeIn" width="100%" alt="Cinematic Footer"/>
 
 </div>
+```
+
+### Replace these before pushing
+
+```text
+YOUR_WEBSITE.com
+YOUR_CHANNEL
+YOUR_HANDLE
+YOUR_EMAIL@example.com
+
+REPO_ONE
+REPO_TWO
+REPO_THREE
+```
+
+**Important:** GitHub will animate the external SVG/GIF-style services, but it will **not execute custom JavaScript/CSS inside `README.md`**. So this version uses services that GitHub can actually render, rather than adding fake CSS animations that won't work.
